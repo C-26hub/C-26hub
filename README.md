@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-26hub&label=Profile%20views&color=0e75b6&style=flat" alt="c-26hub" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🎓 I hold a Bachelor's degree in **Biomedical Sciences**.  
+
+- 💻 Currently pursuing a degree in **Systems Analysis and Development**.
+
+- 🐍 Learning **Python** | 📊 Exploring **SQL** | ☕ Diving into **Java**
+
+- 🚀 Passionate about technology, science, and building meaningful projects
 
 - 📫 How to reach me **cecilmari33@gmail.com**
 
-- ⚡ Fun fact **I graduated in Biomedical Science, i love reading book and playing games**
+- ⚡ Fun fact **I love reading books and playing games**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Ykc3XYGe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ma_ceci10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/maria-cec%c3%adlia-943946349) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cecilmari33@gmail.com)
